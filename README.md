@@ -1,4 +1,7 @@
 # Parse-GTFS
+
+[![Release](https://jitpack.io/v/daisuke-nomura/Parse-GTFS.svg)](https://jitpack.io/#daisuke-nomura/Parse-GTFS)
+
 GTFS class for Android Java extends ParseObject of Parse.com.  
 GTFS specification is [here][gtfs].
 
