@@ -5,7 +5,7 @@
 GTFS class for Android Java extends ParseObject of Parse.com.  
 GTFS specification is [here][gtfs].
 
-##Sample usage
+## Sample usage
 
 ```java
 ParseQuery<Trips> query = ParseQuery.getQuery(Trips.class);
@@ -46,7 +46,7 @@ ParseObject.registerSubclass(Trips.class);
 Parse.initialize(this, "******", "******");
 ```
 
-##Binaries
+## Binaries
 
     allprojects {
         repositories {
@@ -60,11 +60,11 @@ and
         compile 'com.github.daisuke-nomura:Parse-GTFS:{latest version}'
     }
 
-##Bugs and Feedback
+## Bugs and Feedback
 
 Please use [GitHub Issues][issues].
 
-##License
+## License
 
     MIT License
 
